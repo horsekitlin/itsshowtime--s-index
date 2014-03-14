@@ -1,9 +1,9 @@
-itsshowtime index file
-========================
+itsshowtime index
+==================
 
     http://itsshowtimd.idv.tw
 
-    Creater :
+    Creater:
 
         Tomas Lin
 
